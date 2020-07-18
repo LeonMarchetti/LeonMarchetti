@@ -1,4 +1,6 @@
-### Hi there 👋
+### Quien soy
+
+Hola, soy Leonardo Marchetti. Estoy trabajando en la Universidad Nacional de Luján. Estoy utilizando mi cuenta de GitHub para subir algunos de los proyectos en los que trabajo y otros de ocio y práctica.
 
 <!--
 **LeonMarchetti/LeonMarchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
